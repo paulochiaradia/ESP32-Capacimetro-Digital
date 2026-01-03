@@ -1,0 +1,10 @@
+.pio
+.vscode
+.idea
+*.elf
+*.bin
+*.hex
+*.o
+build/
+dist/
+__pycache__
